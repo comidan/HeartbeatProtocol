@@ -1,4 +1,4 @@
-package server.protocols.heartbeat;
+package protocol.server.protocols.heartbeat;
 
 public interface Observable<T, D> {
 

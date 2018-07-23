@@ -1,6 +1,6 @@
-package client;
+package example.client;
 
-import client.protocols.heartbeat.HeartbeatProtocolManager;
+import protocol.client.protocols.heartbeat.HeartbeatProtocolManager;
 
 import java.io.IOException;
 

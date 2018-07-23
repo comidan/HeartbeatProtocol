@@ -1,8 +1,8 @@
-package server;
+package example.server;
 
-import server.protocols.heartbeat.HeartbeatEvent;
-import server.protocols.heartbeat.HeartbeatListener;
-import server.protocols.heartbeat.HeartbeatProtocolManager;
+import protocol.server.protocols.heartbeat.HeartbeatEvent;
+import protocol.server.protocols.heartbeat.HeartbeatListener;
+import protocol.server.protocols.heartbeat.HeartbeatProtocolManager;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;

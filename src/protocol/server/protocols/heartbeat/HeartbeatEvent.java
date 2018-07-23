@@ -1,4 +1,4 @@
-package server.protocols.heartbeat;
+package protocol.server.protocols.heartbeat;
 
 public class HeartbeatEvent  {
 

@@ -1,4 +1,4 @@
-package server.protocols.heartbeat;
+package protocol.server.protocols.heartbeat;
 
 public enum HeartbeatState {
     HOST_OFFLINE,

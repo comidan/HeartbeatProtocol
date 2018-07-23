@@ -1,4 +1,4 @@
-package client.protocols.heartbeat;
+package protocol.client.protocols.heartbeat;
 
 import java.io.IOException;
 import java.net.InetAddress;
