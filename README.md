@@ -4,6 +4,11 @@
 Heartbeat protocol written in Java, working over UDP
 
 
+# Powered by 
+  [![N|Java 8](http://www.winpenpack.com/en/e107_files/downloadthumbs/java_logo.png)](http://www.oracle.com/technetwork/java/index.html)
+# Testing tools 
+[![N|Sonarqube](http://oomusou.io/images/feature/sonar.png)](https://www.sonarqube.org)[![N|Travis CI](https://cdn.iconscout.com/public/images/icon/free/png-128/travis-ci-company-brand-logo-3ea4b6108b6d19db-128x128.png)](https://travis-ci.com) [![N|Maven](https://www.myget.org/Content/images/packageDefaultIcon_maven.png)](http://maven.apache.org/download.cgi) [![N|JUnit](https://res.cloudinary.com/codetrace/raw/upload/v1518632546/java:junit:junit.png)](https://junit.org/junit5/) [![N|Code Climate](https://images.ctfassets.net/3ouphkrynjol/3dbUrGMAFOuYQasYGWM0SK/f7167126b1ff3e8cc7c895e508c08a13/codeclimate.com.png)](https://codeclimate.com)
+
 ### Heartbeat Protocol Description
 The heartbeat protocol is structured on a continuous notification of a UDP datagram with a delay of 1000 milliseconds. The payload field contains the identifier ID from the client that can consist of a string such as the MAC address of the network cards in current use by the ping source or an identifier such as a username.
 The server will listen to the various ping sorting them according to the identifier and managing the various states that they will define themselves.
