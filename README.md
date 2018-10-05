@@ -1,3 +1,5 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/1653a270f84252f44179/maintainability)](https://codeclimate.com/github/Daniele-Comi/HeartbeatProtocol/maintainability)
+
 # HeartbeatProtocol
 Heartbeat protocol written in Java, working over UDP
 
