@@ -76,6 +76,6 @@ All this will be notified as mentioned above through an event management as show
      }
   
   
-The event generated in addition to containing the payload will also contain the delay passed with respect to the previous one with its own payload identifier and the timestamp of the corrent reception of the ping.
+The event generated in addition to containing the payload will also contain the delay passed with respect to the previous one with its own payload identifier and the timestamp of the current reception of the ping.
   
-The use of this protocol will allow a better management of the status of the connections between client and serer and a greater control of the possible errors.
+The use of this protocol will allow a better management of the status of the connections between client and server and a greater control of the possible errors.
