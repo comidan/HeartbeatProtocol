@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/954a0d9afcda4fa08e90bd5de0336b8e)](https://app.codacy.com/app/Daniele-Comi/HeartbeatProtocol?utm_source=github.com&utm_medium=referral&utm_content=Daniele-Comi/HeartbeatProtocol&utm_campaign=Badge_Grade_Settings)
 [![Maintainability](https://api.codeclimate.com/v1/badges/1653a270f84252f44179/maintainability)](https://codeclimate.com/github/Daniele-Comi/HeartbeatProtocol/maintainability)
 
 # HeartbeatProtocol
