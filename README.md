@@ -3,7 +3,7 @@
 # HeartbeatProtocol
 Heartbeat protocol written in Java, working over UDP
 
-###UML Class Diagram
+### UML Class Diagram
 [![N|UML](https://image.ibb.co/fDiJ0f/Heartbeat-Protocol-UML.png)](https://image.ibb.co/fDiJ0f/Heartbeat-Protocol-UML.png)
 
 
