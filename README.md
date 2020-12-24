@@ -1,4 +1,4 @@
-[![Maintainability](https://api.codeclimate.com/v1/badges/1653a270f84252f44179/maintainability)](https://codeclimate.com/github/Daniele-Comi/HeartbeatProtocol/maintainability) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/109db62268724e7cb007cbc891d7d50c)](https://www.codacy.com/app/Daniele-Comi/HeartbeatProtocol?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Daniele-Comi/HeartbeatProtocol&amp;utm_campaign=Badge_Grade)
+[![Maintainability](https://api.codeclimate.com/v1/badges/1653a270f84252f44179/maintainability)](https://codeclimate.com/github/Daniele-Comi/HeartbeatProtocol/maintainability) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/954a0d9afcda4fa08e90bd5de0336b8e)](https://app.codacy.com/app/Daniele-Comi/HeartbeatProtocol?utm_source=github.com&utm_medium=referral&utm_content=Daniele-Comi/HeartbeatProtocol&utm_campaign=Badge_Grade_Settings)
 
 # HeartbeatProtocol
 Heartbeat protocol written in Java, working over UDP
